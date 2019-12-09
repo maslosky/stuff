@@ -10,7 +10,7 @@ import requests
 import json
 import my_creds
 
-# LOAD CREDS FROM 'my_creds.py'
+# LOAD CREDS FROM 'my_creds.py' - in the Python lib dir
 email = my_creds.email
 password = my_creds.password
 domain = my_creds.domain
